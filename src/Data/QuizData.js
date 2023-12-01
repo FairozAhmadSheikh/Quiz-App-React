@@ -20,7 +20,7 @@ export const QuizData = [
         answer:2
     },
     {
-        question: "What  was the Name of the Quiz-App devloper that you are playing?",
+        question: "What  is the Name of the Quiz-App  Game devloper that you are  currently playing?",
         options: ["fanoos ahmad", "farooq ahmad", "fazil ahmad", "fairoz ahmad"],
         answer:4
     },
